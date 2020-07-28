@@ -1,0 +1,15 @@
+C:\Users\efily\source\repos\otokiralama\otokiralama\obj\Debug\otokiralama.csprojAssemblyReference.cache
+C:\Users\efily\source\repos\otokiralama\otokiralama\obj\Debug\otokiralama.Anasayfa.resources
+C:\Users\efily\source\repos\otokiralama\otokiralama\obj\Debug\otokiralama.Giris.resources
+C:\Users\efily\source\repos\otokiralama\otokiralama\obj\Debug\otokiralama.Properties.Resources.resources
+C:\Users\efily\source\repos\otokiralama\otokiralama\obj\Debug\otokiralama.csproj.GenerateResource.cache
+C:\Users\efily\source\repos\otokiralama\otokiralama\bin\Debug\otokiralama.exe.config
+C:\Users\efily\source\repos\otokiralama\otokiralama\bin\Debug\otokiralama.exe
+C:\Users\efily\source\repos\otokiralama\otokiralama\bin\Debug\otokiralama.pdb
+C:\Users\efily\source\repos\otokiralama\otokiralama\obj\Debug\otokiralama.exe
+C:\Users\efily\source\repos\otokiralama\otokiralama\obj\Debug\otokiralama.pdb
+C:\Users\efily\source\repos\otokiralama\otokiralama\obj\Debug\otokiralama.musterikayit.resources
+C:\Users\efily\source\repos\otokiralama\otokiralama\obj\Debug\otokiralama.arackayit.resources
+C:\Users\efily\source\repos\otokiralama\otokiralama\obj\Debug\otokiralama.admin.resources
+C:\Users\efily\source\repos\otokiralama\otokiralama\obj\Debug\otokiralama.arackirala.resources
+C:\Users\efily\source\repos\otokiralama\otokiralama\obj\Debug\otokiralama.aracbakim.resources
